@@ -1,5 +1,7 @@
 # vue3-shop
 
+![Shop](./src/assets/images/main_page.png)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
