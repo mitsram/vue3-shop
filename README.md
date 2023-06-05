@@ -1,5 +1,5 @@
 # vue3-shop
-
+> Please note that this project is still on going development
 ![Shop](./src/assets/images/main_page.png)
 
 This template should help get you started developing with Vue 3 in Vite.
