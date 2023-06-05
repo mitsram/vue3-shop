@@ -1,5 +1,5 @@
 # vue3-shop
-> Please note that this project is still on going development
+> Please note that development is still ongoing on this project
 
 
 ![Shop](./src/assets/images/main_page.png)
